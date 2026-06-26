@@ -1,0 +1,15 @@
+<svg width="640" height="420" viewBox="0 0 640 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="420" rx="24" fill="#07131B"/>
+  <rect x="44" y="48" width="552" height="324" rx="18" fill="#0E2030" stroke="#6EA8FE" stroke-opacity="0.42"/>
+  <path d="M88 300L164 250L238 268L312 178L386 216L464 126L552 146" stroke="#2CE3C8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M88 330H552" stroke="#6EA8FE" stroke-width="2" stroke-opacity="0.45"/>
+  <path d="M88 270H552" stroke="#6EA8FE" stroke-width="2" stroke-opacity="0.18"/>
+  <path d="M88 210H552" stroke="#6EA8FE" stroke-width="2" stroke-opacity="0.18"/>
+  <path d="M88 150H552" stroke="#6EA8FE" stroke-width="2" stroke-opacity="0.18"/>
+  <rect x="82" y="88" width="170" height="44" rx="12" fill="#132B41"/>
+  <text x="104" y="118" fill="#EAF2FF" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700">StockSight</text>
+  <rect x="402" y="84" width="128" height="52" rx="16" fill="#2CE3C8" fill-opacity="0.14" stroke="#2CE3C8" stroke-opacity="0.5"/>
+  <text x="424" y="117" fill="#2CE3C8" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">SignalR</text>
+  <circle cx="464" cy="126" r="10" fill="#FFD166"/>
+  <circle cx="312" cy="178" r="10" fill="#FFD166"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="640" height="420" viewBox="0 0 640 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="420" rx="24" fill="#08111F"/>
+  <rect x="54" y="54" width="532" height="312" rx="18" fill="#101C2E" stroke="#2CE3C8" stroke-opacity="0.45"/>
+  <path d="M96 128H544" stroke="#2CE3C8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M96 188H544" stroke="#6EA8FE" stroke-width="2" stroke-opacity="0.45" stroke-linecap="round"/>
+  <path d="M96 248H544" stroke="#6EA8FE" stroke-width="2" stroke-opacity="0.35" stroke-linecap="round"/>
+  <path d="M96 308H544" stroke="#6EA8FE" stroke-width="2" stroke-opacity="0.25" stroke-linecap="round"/>
+  <rect x="118" y="156" width="96" height="18" rx="9" fill="#2CE3C8"/>
+  <rect x="118" y="216" width="124" height="18" rx="9" fill="#6EA8FE"/>
+  <rect x="118" y="276" width="82" height="18" rx="9" fill="#FFD166"/>
+  <rect x="360" y="156" width="120" height="18" rx="9" fill="#2CE3C8" fill-opacity="0.75"/>
+  <rect x="384" y="216" width="96" height="18" rx="9" fill="#6EA8FE" fill-opacity="0.75"/>
+  <rect x="402" y="276" width="78" height="18" rx="9" fill="#FFD166" fill-opacity="0.75"/>
+  <circle cx="512" cy="95" r="18" fill="#2CE3C8"/>
+  <text x="94" y="103" fill="#EAF2FF" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700">Ledger Core</text>
+  <text x="96" y="347" fill="#90A4C5" font-family="Inter, Arial, sans-serif" font-size="18">Event Sourcing + CQRS</text>
+</svg>
